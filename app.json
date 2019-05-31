@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/transition/transition",
+    "pages/login/login",
+    "pages/bind/bind",
+    "pages/clause/clause"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "致学免费课程",
+    "navigationBarTextStyle": "white"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "小程序获取您的位置，用于更好的为您提供服务"
+    }
+  },
+  "sitemapLocation": "sitemap.json"
+}
